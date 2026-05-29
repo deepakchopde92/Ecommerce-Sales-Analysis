@@ -1,0 +1,16 @@
+order_id,order_date,customer,city,product,category,amount,discount
+1,2024-01-01,A,Mumbai,Laptop,Electronics,50000,5000
+2,2024-01-02,B,Mumbai,Phone,Electronics,30000,0
+3,2024-01-03,C,Delhi,Tablet,Electronics,20000,2000
+4,2024-01-05,A,Pune,Phone,Electronics,15000,0
+5,2024-01-06,B,Mumbai,Laptop,Electronics,60000,6000
+6,2024-01-07,D,Delhi,Tablet,Electronics,10000,1000
+7,2024-01-08,E,Pune,Phone,Electronics,12000,0
+8,2024-01-09,F,Mumbai,Laptop,Electronics,70000,7000
+9,2024-01-10,C,Delhi,Phone,Electronics,25000,2500
+10,2024-01-11,E,Pune,Tablet,Electronics,8000,0
+11,2024-02-01,A,Pune,Laptop,Electronics,40000,4000
+12,2024-02-02,B,Mumbai,Phone,Electronics,20000,0
+13,2024-02-03,C,Delhi,Laptop,Electronics,30000,3000
+14,2024-02-05,D,Delhi,Phone,Electronics,15000,1500
+15,2024-02-06,E,Pune,Laptop,Electronics,35000,3500
